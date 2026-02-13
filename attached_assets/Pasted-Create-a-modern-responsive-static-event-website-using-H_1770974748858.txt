@@ -1,0 +1,78 @@
+Create a modern, responsive static event website using HTML, CSS, and JavaScript for a college technical event called:
+
+"TechSprint 2.0 — Ideathon + Hackathon"
+
+Organized by the Department of Computer Science & Engineering (CSE), Punjabi University Patiala.
+
+Requirements:
+
+1. Use a futuristic tech theme with dark background and neon blue accents.
+2. Create a clean, professional UI suitable for a college hackathon website.
+3. The project structure should include:
+
+   * index.html
+   * style.css
+   * script.js
+   * images folder for organizer photos
+
+Website sections to include:
+
+Hero Section:
+
+* Event title: TechSprint 2.0 — Ideathon + Hackathon
+* Dates: 24–26 February
+* Time: 9:30 AM – 4:00 PM
+* Tagline: "Innovate. Build. Compete."
+* Organizer line: Department of CSE, Punjabi University Patiala
+* Register Now button linking to a Google Form (use placeholder link)
+
+About Section:
+
+* Brief description of the 3-day interdisciplinary Ideathon + Hackathon.
+
+Event Timeline Section:
+Day 1 – 24 Feb:
+09:30–10:00 Entry & Registration
+10:00–12:30 PPT Preparation
+01:00–02:00 Lunch Break
+02:00–04:30 Pitching Round & Results
+
+Day 2 – 25 Feb:
+09:30–10:00 Entry & Registration
+10:00–12:30 MVP Link Preparation
+12:30–01:00 Buffer Time
+01:00–02:00 Lunch Break
+02:00–04:00 MVP Final Touches
+
+Day 3 – 26 Feb:
+09:30–10:00 Entry & Registration
+10:00–01:00 MVP Presentation + Judges Q&A
+01:00–02:00 Lunch Break
+02:00–04:00 Results & Prize Distribution
+
+Prizes Section:
+
+* Winner: ₹2000 + medals + certificates + goodies
+* 1st runner-up: ₹1500 + medals + certificates + goodies
+* 2nd runner-up: ₹1000 + medals + certificates + goodies
+* 3rd runner-up: medals + certificates + goodies
+* Top 10 teams: diary and pen set
+
+Organizing Team Gallery:
+
+* Image placeholders for HOD CSE, Faculty Advisor, Event Organizer, and other HODs
+* Names and designations under images
+
+Contact Section:
+
+* Coordinator name, phone, and email placeholders
+
+Additional requirements:
+
+* Smooth scrolling navigation
+* Hover animations
+* Responsive mobile-friendly design
+* Timeline cards or grid layout
+* Footer with event name and university name
+
+Generate clean, well-structured code with comments and modern styling.
